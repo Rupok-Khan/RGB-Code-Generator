@@ -1,0 +1,36 @@
+body{
+    background-color: rgb(160, 97, 15);
+    transform: translate(-50%, -50%);
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    text-align: center;
+    padding-top: 100px;
+}
+#box1{
+  
+    
+    
+}
+#code{
+    background-color: white;
+    text-align: center;
+    height: 60px;
+    padding-top: 50px;
+    font-size: 1.4rem;
+    
+    
+}
+
+#btn{
+    text-align: center;
+    padding-left: 35px;
+    padding-right: 35px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    font-size: 1.3rem;
+    border-radius: 8px;
+    background-color: blueviolet;
+    color: white;
+   
+}
